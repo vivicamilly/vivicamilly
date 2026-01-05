@@ -37,12 +37,6 @@
 
 ---
 
-<h2><strong>🏆 GitHub Achievements</strong></h2>
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=vivicamilly&theme=rose&no-frame=true&margin-w=10"/>
-
----
-
 <p><strong>🌸 Turning mathematical logic into code, one step at a time.</strong></p>
 
 </div>
