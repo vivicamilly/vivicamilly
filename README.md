@@ -10,9 +10,11 @@
 
 <div align="center">
 
-✨ Estudante apaixonada por aprender  
-🏅 Medalhista em Olimpíadas de Matemática  
-💻 Aprendendo desenvolvimento web  
+<p><strong>✨ Estudante apaixonada por aprender</strong></p>
+<p><strong>🏅 Medalhista em Olimpíadas de Matemática</strong></p>
+<p><strong>💻 Aprendendo desenvolvimento web</strong></p>
+
+<br/>
 
 <a href="https://www.linkedin.com/in/vitoria-camilly-santos/">
   <img src="https://img.shields.io/badge/LinkedIn-f7b7d2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -20,14 +22,14 @@
 
 ---
 
-## 🌟 Conquistas
-🥇 Medalhista em Olimpíadas de Matemática  
-📐 Forte raciocínio lógico  
-🌱 Evoluindo diariamente na programação  
+<p><strong>🌟 Conquistas</strong></p>
+<p><strong>🥇 Medalhista em Olimpíadas de Matemática</strong></p>
+<p><strong>📐 Forte raciocínio lógico</strong></p>
+<p><strong>🌱 Evoluindo diariamente na programação</strong></p>
 
 ---
 
-## 💕 Tecnologias em aprendizado
+<p><strong>💕 Tecnologias em aprendizado</strong></p>
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
@@ -35,12 +37,14 @@
 
 ---
 
-## 🏆 Conquistas no GitHub
+<p><strong>🏆 Conquistas no GitHub</strong></p>
 <br/>
 <img src="https://github-profile-trophy.vercel.app/?username=vivicamilly&theme=rose&no-frame=true&margin-w=10"/>
 
 ---
 
-🌸 *Transformando lógica matemática em código, um passo de cada vez.*
+<p><strong>🌸 Transformando lógica matemática em código, um passo de cada vez.</strong></p>
 
 </div>
+
+
