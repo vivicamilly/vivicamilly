@@ -22,14 +22,14 @@
 
 ---
 
-<p><strong>🌟 Achievements</strong></p>
+<h2><strong>🌟 Achievements</strong></h2>
 <p><strong>🥇 Mathematics Olympiad medalist</strong></p>
 <p><strong>📐 Strong logical reasoning skills</strong></p>
 <p><strong>🌱 Continuously growing in programming</strong></p>
 
 ---
 
-<p><strong>💕 Technologies I'm learning</strong></p>
+<h2><strong>💕 Technologies I'm learning</strong></h2>
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
@@ -37,7 +37,7 @@
 
 ---
 
-<p><strong>🏆 GitHub Achievements</strong></p>
+<h2><strong>🏆 GitHub Achievements</strong></h2>
 <br/>
 <img src="https://github-profile-trophy.vercel.app/?username=vivicamilly&theme=rose&no-frame=true&margin-w=10"/>
 
